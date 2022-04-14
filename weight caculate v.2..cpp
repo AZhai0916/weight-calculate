@@ -10,7 +10,7 @@ int main(void)
 	
 	while(1)
 	{
-		printf("½Ğ¿é¤J²Ä%d¤ÑªºÅé­«: ",day);
+		printf("è«‹è¼¸å…¥ç¬¬%då¤©çš„é«”é‡: ",day);
 		scanf("%f",&weight);
 
 		total+=weight;
@@ -22,10 +22,10 @@ int main(void)
 		
 		day++;
 	}
-	printf("%f\n",total);
+
 	total/=day;
 	
-	printf("%d¤Ñªº¥­§¡Åé­«¬°:%.2f¤½¤ç.\n",day,total);
+	printf("%då¤©çš„å¹³å‡é«”é‡ç‚º:%.2få…¬æ–¤.\n",day,total);
 	
 	system("pause");
 	return 0;
