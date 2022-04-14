@@ -1,1 +1,1 @@
-# weight-calculate
+# 輸入完體重(包含小數點),按兩下Enter來繼續下一個輸入,要結束請按一下Enter後再按一下k.
